@@ -40,9 +40,9 @@ You can fetch data using the following API endpoint: https://fakestoreapi.com/
 2. Commit your code regularly and push the changes to your forked repository.
 3. Build an Android APK and provide a download link in the DOCS.md file.
 4. Include screenshots of all the screens and describe the functionality of the whole application briefly in the DOCS.md file.
-5. Once you have completed the assignment, share the repository URL with us via the [submission form](https://forms.gle/G8o13gui7hQR8p39A).
+5. Once you have completed the assignment, share the repository URL with us via the [submission form](https://forms.gle/egDduPmDKYNAjG6R8).
 
-- Submission Deadline: Thursday, July 6, 2023, 4:00 PM
+- Submission Deadline: Saturday, July 8, 2023, 4:00 PM
 
 Check out the discussion section of this repo to ask any related queries or doubts.
 Note: The assignment is intended to help you grasp basic concepts. Don't hesitate to ask for any clarifications in the discussion section of this repo. Good luck with your assignment!
