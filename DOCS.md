@@ -17,7 +17,7 @@
 
 ![cart_page](https://github.com/sushantmzjn/flutter-assignment/assets/37867934/3a4c17d7-d679-4247-8475-ca91e9f6566e)
 
--cart page / swipe the item to right to left to delete cart items
+-cart page / swipe the item from right to left to delete cart items
 
 
 
