@@ -47,7 +47,7 @@ class HomePage extends ConsumerWidget {
 
               ),
             ),
-            productData.isLoad ? Padding(
+            productData.isLoad ? productData.isError ? Center(child: Text(productData.errorMessage),) : Padding(
               padding: const EdgeInsets.all(8.0),
               child: Transform.scale(scale: 0.8, child: CircularProgressIndicator(color: Color(0xff2C2830),)),
             ) :  Expanded(
